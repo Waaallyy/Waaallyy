@@ -31,10 +31,3 @@ I work on personal projects to keep learning and improving, and I also develop a
 ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
-
-## 📊 Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waaallyy&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waaallyy&layout=compact&theme=tokyonight)
-
----
