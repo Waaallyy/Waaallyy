@@ -1,8 +1,8 @@
 # 👋 Hi! I'm Waaally!
 
 ## 🧑‍💻 About Me
-I'm an IT student with a strong passion for cybersecurity.  
-I work on personal projects to keep learning and improving, and I also develop academic projects that help me grow professionally.
+I'm an IT student passionate about data analysis and motorsport engineering.
+I build personal projects to keep learning — currently a Formula 1 telemetry analysis tool — alongside academic work that supports my professional growth.
 
 ---
 
