@@ -29,5 +29,5 @@ I work on personal projects to keep learning and improving, and I also develop a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ---
