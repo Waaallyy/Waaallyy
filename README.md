@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 I'm an IT student passionate about data analysis and motorsport engineering.
-I build personal projects to keep learning — currently a telemetry analysis for Asseto Corsa — alongside academic work that supports my professional growth.
+I build personal projects to keep learning — currently a telemetry analysis of my own car — alongside academic work that supports my professional growth.
 
 ---
 
