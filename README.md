@@ -7,8 +7,6 @@
 I'm an IT student passionate about motorsport engineering.
 I build personal projects to keep learning — currently a telemetry box reading my own car's CAN bus — alongside academic work that supports my professional growth.
 
----
-
 ## 🧰 Languages & Technologies
 
 ### 🌐 Frontend
